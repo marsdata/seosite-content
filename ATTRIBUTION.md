@@ -30,10 +30,82 @@ Source pages and authors listed per file.
 - `images/puer_4.jpg` — File:Pu-erh tea - July 2023 - Sarah Stierch 01.jpg | Missvain | CC BY 4.0
 - `images/puer_5.jpg` — File:Pu-erh tea - July 2023 - Sarah Stierch 02.jpg | Missvain | CC BY 4.0
 - `images/teapot_1.jpg` — File:Ceramic stoneware teapot produced with Yixing clay before 1923 CE Jiangsu Province China.jpg | Mary Harrsch | CC BY-SA 4.0
+- `images/wp_10DIYBench_1.jpg` — File:Bench and clerk desk (1892), Mackenzie Hall, Windsor, Ontario, 2025-06-11.jpg | Crisco 1492 | CC BY-SA 4.0
+- `images/wp_10DIYBench_2.jpg` — File:Brumbaugh Christopher Dock Schoolroom Bench and Desk.jpg | Unknown photographer | Public domain
+- `images/wp_10DIYBench_3.jpg` — File:Medieval writing desk.png | Grufo after Medieval writing desk.jpg | Public domain
+- `images/wp_11StylishC_1.jpg` — File:4 Jpg (226253427).jpeg | 
+- `images/wp_11StylishC_2.jpg` — File:COALMINER C.K. PARKER, HIS WIFE AND 14-YEAR-OLD DAUGHTER OUTSIDE THEIR HOME AT CLAYPOOL HILL NEAR RICHLANDS... - NARA - 556356.jpg | Jack Corn | Public domain
+- `images/wp_11StylishC_3.jpg` — File:Hampton Ferry September 2023.jpg | Orwell'sElephant | CC0
+- `images/wp_8MustHaveS_1.jpg` — File:Bebe Hot Pants 01 2008.jpg | Toglenn | CC BY-SA 3.0
+- `images/wp_8MustHaveS_2.jpg` — File:Bebe Hot Pants 01 2008 (cropped).jpg | Toglenn | CC BY-SA 3.0
+- `images/wp_8MustHaveS_3.jpg` — File:Bebe Hot Pants 02 2008.jpg | Toglenn | CC BY-SA 3.0
+- `images/wp_BestBeginn_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_BestBeginn_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_BestBeginn_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
+- `images/wp_CleanLabel_1.jpg` — File:Baby Corn Manchury Dry.jpg | Kiran Ganesh | CC BY-SA 4.0
+- `images/wp_CleanLabel_2.jpg` — File:Bateti (baby potato) fry.jpg | Ankita dayani | CC BY-SA 4.0
+- `images/wp_CleanLabel_3.jpg` — File:Sagol-yuksu (cropped).jpg | 나쁜애교 | CC BY-SA 2.0 kr
 - `images/wp_CoolSummer_1.jpg` — File:TEENAGERS TAKE A BREAK FROM DETASSELING CORN DURING THE SUMMER IN A FIELD NEAR NEW ULM, MINNESOTA. NOTE THAT THEIR... - NARA - 558245.jpg | Flip Schulke | Public domain
+- `images/wp_DetailedGu_1.jpg` — File:Corner 103 2020 Rosé - Sarah Stierch.jpg | Missvain | CC BY 4.0
+- `images/wp_DetailedGu_2.jpg` — File:Eataly Las Vegas - Feb 2019 - Sarah Stierch 08.jpg | Missvain | CC BY 4.0
+- `images/wp_DetailedGu_3.jpg` — File:Rose Wine 02232.jpg | Ashley Pomeroy | CC BY 3.0
+- `images/wp_DoYouReall_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_DoYouReall_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_DoYouReall_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
+- `images/wp_DreamyFlor_1.jpg` — File:Brown cotton floral print dress - DPLA - 0eba19e6764ca547154dd8a0e602e72e (page 1).jpg | unknown | Public domain
+- `images/wp_DreamyFlor_2.jpg` — File:Brown cotton floral print dress - DPLA - 0eba19e6764ca547154dd8a0e602e72e (page 2).jpg | unknown | Public domain
+- `images/wp_DreamyFlor_3.jpg` — File:Cream cotton print dress - DPLA - 3c02dbad2f641315c238f06931a3b14a (page 1).jpg | unknown | Public domain
 - `images/wp_ElegantNew_1.jpg` — File:Earrings, pair (AM 1932.233-1).jpg | 
 - `images/wp_ElegantNew_2.jpg` — File:Earrings, pair (AM 1932.233-10).jpg | 
 - `images/wp_ElegantNew_3.jpg` — File:Earrings, pair (AM 1932.233-2).jpg | 
+- `images/wp_EssentialB_1.jpg` — File:(Treviso) Nello studio del pittore by Giovanni Boldini - Museoarchives Giovanni Boldini, Pistoia.jpg | Didier Descouens | CC BY-SA 4.0
+- `images/wp_EssentialB_2.jpg` — File:(Treviso) Studio by Lino Selvatico (1920).jpg | Lino Selvatico | CC BY-SA 4.0
+- `images/wp_EssentialB_3.jpg` — File:A studio inside Chassé Church.jpg | GigGama | CC BY-SA 4.0
+- `images/wp_FirstZisha_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_FirstZisha_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_FirstZisha_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
+- `images/wp_FlaredRimv_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_FlaredRimv_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_FlaredRimv_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
+- `images/wp_FloralPurp_1.jpg` — File:Floral emblems (1825) (14732212276).jpg | Internet Archive Book Images | No restrictions
+- `images/wp_FloralPurp_2.jpg` — File:White dress with floral stripes - DPLA - a211bf6caa7d6f9afd0236971c1c5f26 (page 1).jpg | unknown | Public domain
+- `images/wp_FloralPurp_3.jpg` — File:White dress with floral stripes - DPLA - a211bf6caa7d6f9afd0236971c1c5f26 (page 2).jpg | unknown | Public domain
+- `images/wp_GaiwanClea_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_GaiwanClea_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_GaiwanClea_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
+- `images/wp_HowMuchSho_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_HowMuchSho_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_HowMuchSho_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
+- `images/wp_HowtoMakeS_1.jpg` — File:A manual on foot care and shoe fitting for officers of the U.S. Navy and U.S. Marine corps (1920) (14803926833).jpg | Internet Archive Book Images | No restrictions
+- `images/wp_HowtoMakeS_2.jpg` — File:Foot care and shoe fitting-Fig10 External parts of the shoe.png | Mann, William Leake; Folsom, Spencer Augustus
+- `images/wp_HowtoMakeS_3.jpg` — File:Foot care and shoe fitting-Fig11 Goodyear welt shoe cross-section, sole, welt, and insole fill exaggerated.png | Mann, William Leake; Folsom, Spencer Augustus
+- `images/wp_HowtoSpota_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_HowtoSpota_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_HowtoSpota_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
 - `images/wp_LoveItWeig_1.jpg` — File:A bottle of cold water with droplets.jpg | Philsacor | CC0
 - `images/wp_LoveItWeig_2.jpg` — File:Blue Waters bottle no label.jpg | 999real | CC0
 - `images/wp_LoveItWeig_3.jpg` — File:Bottle of Water.jpg | Jiafei Slay Queen | CC0
+- `images/wp_Porcelainv_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_Porcelainv_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_Porcelainv_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
+- `images/wp_ShihaovsDu_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_ShihaovsDu_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_ShihaovsDu_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
+- `images/wp_SummerDres_1.jpg` — File:"Summer Dress".jpg | Barbara Segal | CC BY-SA 4.0
+- `images/wp_SummerDres_2.jpg` — File:A Woman in a Red Sundress.jpg | ZigmarsBerzins | CC0
+- `images/wp_SummerDres_3.jpg` — File:A girl resting in shade during the summer heat.jpg | Maksim Sokolov (maxergon.com) | CC BY-SA 4.0
+- `images/wp_TastingCup_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_TastingCup_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_TastingCup_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
+- `images/wp_ToyBirthda_1.jpg` — File:Birthday cake with Ganesh and toy lamp.jpg | Ijon | CC BY-SA 4.0
+- `images/wp_ToyBirthda_2.jpg` — File:Cake (66262167).jpeg | 
+- `images/wp_ToyBirthda_3.jpg` — File:FMIB 35527 Terra Nova from aloft A toy ship on a birthday cake.jpeg | George Allan England | Public domain
+- `images/wp_TryThisGre_1.jpg` — File:2023 Kosmetyki Ziaja.jpg | Jacek Halicki | CC BY-SA 4.0
+- `images/wp_TryThisGre_2.jpg` — File:ADUNNI COSMETICS IBADAN.jpg | Ourlibrary | CC0
+- `images/wp_TryThisGre_3.jpg` — File:Africa Makeup & Beauty Fair 04.jpg | Esthee2010 | CC BY-SA 4.0
+- `images/wp_WhyHighFir_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_WhyHighFir_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_WhyHighFir_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
+- `images/wp_ZishaPotSi_1.jpg` — File:Biluochun Gaiwan.JPG | Dark NirK | CC BY-SA 3.0
+- `images/wp_ZishaPotSi_2.jpg` — File:Chinese Tea Ceremony.jpg | Il lupa | CC BY-SA 4.0
+- `images/wp_ZishaPotSi_3.jpg` — File:Chinese gaiwan.jpg | Gary Stevens | CC BY 2.0
