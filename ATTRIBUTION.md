@@ -5,7 +5,6 @@ Source pages and authors listed per file.
 
 - `images/brewing_1.jpg` — File:Chai (Tea).jpg | Gannu03 | CC BY-SA 4.0
 - `images/brewing_2.jpg` — File:It S Tea Time (56596696).jpeg | 
-Markus Grossalber | CC BY 3.0
 - `images/brewing_3.jpg` — File:Lipton-mug-tea.jpg | Evan-Amos | Public domain
 - `images/brewing_4.jpg` — File:Longjing tea after steeping.jpg | Difference engine | CC BY-SA 4.0
 - `images/brewing_5.jpg` — File:Red Tea.jpg | Jubair1985 | CC BY-SA 4.0
@@ -31,3 +30,10 @@ Markus Grossalber | CC BY 3.0
 - `images/puer_4.jpg` — File:Pu-erh tea - July 2023 - Sarah Stierch 01.jpg | Missvain | CC BY 4.0
 - `images/puer_5.jpg` — File:Pu-erh tea - July 2023 - Sarah Stierch 02.jpg | Missvain | CC BY 4.0
 - `images/teapot_1.jpg` — File:Ceramic stoneware teapot produced with Yixing clay before 1923 CE Jiangsu Province China.jpg | Mary Harrsch | CC BY-SA 4.0
+- `images/wp_CoolSummer_1.jpg` — File:TEENAGERS TAKE A BREAK FROM DETASSELING CORN DURING THE SUMMER IN A FIELD NEAR NEW ULM, MINNESOTA. NOTE THAT THEIR... - NARA - 558245.jpg | Flip Schulke | Public domain
+- `images/wp_ElegantNew_1.jpg` — File:Earrings, pair (AM 1932.233-1).jpg | 
+- `images/wp_ElegantNew_2.jpg` — File:Earrings, pair (AM 1932.233-10).jpg | 
+- `images/wp_ElegantNew_3.jpg` — File:Earrings, pair (AM 1932.233-2).jpg | 
+- `images/wp_LoveItWeig_1.jpg` — File:A bottle of cold water with droplets.jpg | Philsacor | CC0
+- `images/wp_LoveItWeig_2.jpg` — File:Blue Waters bottle no label.jpg | 999real | CC0
+- `images/wp_LoveItWeig_3.jpg` — File:Bottle of Water.jpg | Jiafei Slay Queen | CC0
